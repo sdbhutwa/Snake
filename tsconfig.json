@@ -1,0 +1,15 @@
+{
+    "files": [
+        "field.ts",
+        "game.ts",
+        "globals.ts",
+        "main.ts",
+        "painter.ts",
+        "random.ts",
+        "snake.ts"
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true
+    }
+}
